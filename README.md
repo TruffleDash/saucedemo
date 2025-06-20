@@ -12,7 +12,7 @@
 
 Требования:
 - Язык: JavaScript
-- Фреймворк: любой на ваш выбор - Playwright, Cypress, CodeceptJS, WebdriverIO и т.д. (Мы используем CodeceptJS/Playwright)
+- Фреймворк: Playwright
 - Обязательно использовать Page Object подход
 - Добавьте файл README.md с инструкцией, как запускать тесты
 - Разместите проект в публичный репозиторий (GitHub, GitLab) и приложите ссылку
