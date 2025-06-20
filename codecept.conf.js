@@ -22,7 +22,9 @@ exports.config = {
     authPage: './pages/authPage.js',
     productPage: './pages/productPage.js',
     checkoutStepPage: './pages/checkoutStepPage.js',
-    cartPage: './pages/cartPage.js'
+    cartPage: './pages/cartPage.js',
+    checkoutStep2Page: './pages/checkoutStep2Page.js',
+    checkoutCompletePage: './pages/checkoutCompletePage.js'
   },
   name: 'saucedemo'
 }
